@@ -1,0 +1,24 @@
+create badips_apache-noscript_deny hash:net family inet hashsize 1024 maxelem 65536
+add badips_apache-noscript_deny 43.254.151.94
+add badips_apache-noscript_deny 191.237.3.61
+add badips_apache-noscript_deny 52.170.194.21
+add badips_apache-noscript_deny 180.215.224.208
+add badips_apache-noscript_deny 118.24.97.147
+add badips_apache-noscript_deny 202.53.8.129
+add badips_apache-noscript_deny 104.131.139.147
+add badips_apache-noscript_deny 181.170.121.9
+add badips_apache-noscript_deny 79.99.166.144
+add badips_apache-noscript_deny 111.122.182.221
+add badips_apache-noscript_deny 118.189.162.199
+add badips_apache-noscript_deny 216.244.66.230
+add badips_apache-noscript_deny 113.107.111.117
+add badips_apache-noscript_deny 106.13.123.125
+add badips_apache-noscript_deny 189.209.29.73
+add badips_apache-noscript_deny 162.243.138.229
+add badips_apache-noscript_deny 192.99.47.111
+add badips_apache-noscript_deny 41.67.16.83
+add badips_apache-noscript_deny 114.67.72.12
+add badips_apache-noscript_deny 58.244.255.45
+add badips_apache-noscript_deny 81.82.247.71
+add badips_apache-noscript_deny 129.150.94.63
+add badips_apache-noscript_deny 213.180.203.62
