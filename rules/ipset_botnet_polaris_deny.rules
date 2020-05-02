@@ -1,4 +1,5 @@
 create botnet_polaris_deny hash:net family inet hashsize 1024 maxelem 65536
+add botnet_polaris_deny 99.20.200.143
 add botnet_polaris_deny 96.79.181.22
 add botnet_polaris_deny 118.200.208.132
 add botnet_polaris_deny 37.209.16.46
