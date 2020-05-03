@@ -18,4 +18,3 @@ add badips_apache-wordpress_deny 173.245.239.249
 add badips_apache-wordpress_deny 173.245.239.239
 add badips_apache-wordpress_deny 207.154.240.21
 add badips_apache-wordpress_deny 111.26.198.30
-add badips_apache-wordpress_deny 52.138.3.22
