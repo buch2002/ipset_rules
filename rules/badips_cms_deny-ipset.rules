@@ -83,6 +83,7 @@ add badips_cms_deny 46.197.0.172
 add badips_cms_deny 125.212.217.250
 add badips_cms_deny 34.125.27.249
 add badips_cms_deny 51.77.140.110
+add badips_cms_deny 190.12.11.248
 add badips_cms_deny 50.63.161.42
 add badips_cms_deny 113.162.165.145
 add badips_cms_deny 176.9.230.19
@@ -117,9 +118,9 @@ add badips_cms_deny 104.248.227.104
 add badips_cms_deny 128.199.110.156
 add badips_cms_deny 68.65.123.38
 add badips_cms_deny 51.89.213.89
-add badips_cms_deny 54.36.38.246
 add badips_cms_deny 193.19.100.109
 add badips_cms_deny 50.62.160.233
+add badips_cms_deny 54.36.38.246
 add badips_cms_deny 34.80.252.217
 add badips_cms_deny 3.223.104.32
 add badips_cms_deny 103.27.61.222
@@ -233,7 +234,6 @@ add badips_cms_deny 206.189.117.42
 add badips_cms_deny 212.47.229.4
 add badips_cms_deny 117.103.84.102
 add badips_cms_deny 66.115.173.18
-add badips_cms_deny 212.252.138.51
 add badips_cms_deny 94.23.219.41
 add badips_cms_deny 107.189.10.190
 add badips_cms_deny 198.50.221.5
@@ -387,11 +387,13 @@ add badips_cms_deny 128.199.236.47
 add badips_cms_deny 178.254.10.141
 add badips_cms_deny 34.198.176.215
 add badips_cms_deny 54.154.255.43
+add badips_cms_deny 43.252.103.150
 add badips_cms_deny 119.90.34.135
 add badips_cms_deny 80.73.212.218
 add badips_cms_deny 45.32.112.28
 add badips_cms_deny 54.36.197.5
 add badips_cms_deny 13.235.162.44
+add badips_cms_deny 103.146.203.15
 add badips_cms_deny 178.32.213.61
 add badips_cms_deny 195.98.87.68
 add badips_cms_deny 117.55.252.56
@@ -427,6 +429,7 @@ add badips_cms_deny 178.128.103.151
 add badips_cms_deny 67.205.149.212
 add badips_cms_deny 213.136.88.46
 add badips_cms_deny 46.101.4.58
+add badips_cms_deny 198.54.114.31
 add badips_cms_deny 178.128.204.192
 add badips_cms_deny 198.54.114.123
 add badips_cms_deny 128.199.212.194
@@ -488,7 +491,6 @@ add badips_cms_deny 134.209.123.101
 add badips_cms_deny 198.187.29.183
 add badips_cms_deny 103.139.102.42
 add badips_cms_deny 69.12.66.205
-add badips_cms_deny 175.142.142.31
 add badips_cms_deny 51.81.254.15
 add badips_cms_deny 134.209.78.128
 add badips_cms_deny 161.35.22.149
