@@ -554,7 +554,6 @@ add badips_http_deny 51.81.254.21
 add badips_http_deny 157.245.183.64
 add badips_http_deny 185.220.100.255
 add badips_http_deny 27.115.124.75
-add badips_http_deny 198.199.85.178
 add badips_http_deny 139.59.43.196
 add badips_http_deny 139.227.163.121
 add badips_http_deny 51.15.22.244
@@ -806,6 +805,7 @@ add badips_http_deny 41.37.106.198
 add badips_http_deny 52.195.18.112
 add badips_http_deny 192.99.31.122
 add badips_http_deny 124.156.218.232
+add badips_http_deny 209.141.45.189
 add badips_http_deny 34.73.237.110
 add badips_http_deny 71.6.147.254
 add badips_http_deny 109.226.8.154
@@ -1112,7 +1112,6 @@ add badips_http_deny 35.197.158.83
 add badips_http_deny 128.199.165.213
 add badips_http_deny 176.115.65.127
 add badips_http_deny 220.135.203.77
-add badips_http_deny 104.155.46.218
 add badips_http_deny 78.108.177.50
 add badips_http_deny 69.12.66.202
 add badips_http_deny 77.88.5.200
@@ -1240,7 +1239,6 @@ add badips_http_deny 46.101.171.183
 add badips_http_deny 171.67.70.85
 add badips_http_deny 139.59.5.179
 add badips_http_deny 77.43.189.14
-add badips_http_deny 176.56.56.132
 add badips_http_deny 18.141.147.202
 add badips_http_deny 89.98.1.204
 add badips_http_deny 104.154.108.109
@@ -1617,6 +1615,7 @@ add badips_http_deny 154.223.175.252
 add badips_http_deny 199.212.57.251
 add badips_http_deny 62.74.85.51
 add badips_http_deny 188.74.64.78
+add badips_http_deny 151.34.50.181
 add badips_http_deny 50.62.177.218
 add badips_http_deny 217.182.69.216
 add badips_http_deny 46.101.4.58
@@ -1647,6 +1646,7 @@ add badips_http_deny 78.108.177.53
 add badips_http_deny 79.137.65.179
 add badips_http_deny 178.128.68.121
 add badips_http_deny 119.29.129.76
+add badips_http_deny 142.93.35.169
 add badips_http_deny 27.37.166.117
 add badips_http_deny 193.70.13.33
 add badips_http_deny 182.61.43.182
