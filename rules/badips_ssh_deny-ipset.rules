@@ -265,6 +265,7 @@ add badips_ssh_deny 89.46.86.65
 add badips_ssh_deny 139.59.10.186
 add badips_ssh_deny 185.156.177.82
 add badips_ssh_deny 1.194.238.187
+add badips_ssh_deny 106.124.137.108
 add badips_ssh_deny 36.110.19.71
 add badips_ssh_deny 62.4.14.206
 add badips_ssh_deny 95.179.177.50
@@ -915,6 +916,7 @@ add badips_ssh_deny 138.197.151.213
 add badips_ssh_deny 52.211.229.144
 add badips_ssh_deny 116.228.53.227
 add badips_ssh_deny 121.100.28.199
+add badips_ssh_deny 45.55.128.109
 add badips_ssh_deny 58.87.120.53
 add badips_ssh_deny 92.154.76.176
 add badips_ssh_deny 95.167.225.81
@@ -1555,6 +1557,7 @@ add badips_ssh_deny 49.233.88.126
 add badips_ssh_deny 106.52.179.55
 add badips_ssh_deny 80.11.44.112
 add badips_ssh_deny 220.78.28.68
+add badips_ssh_deny 59.120.189.230
 add badips_ssh_deny 14.29.148.201
 add badips_ssh_deny 177.188.175.84
 add badips_ssh_deny 222.186.175.148
@@ -3283,6 +3286,7 @@ add badips_ssh_deny 51.210.6.179
 add badips_ssh_deny 81.133.142.45
 add badips_ssh_deny 61.166.155.45
 add badips_ssh_deny 45.55.243.124
+add badips_ssh_deny 138.197.180.102
 add badips_ssh_deny 198.20.87.98
 add badips_ssh_deny 185.204.3.36
 add badips_ssh_deny 89.222.181.58
@@ -5608,6 +5612,7 @@ add badips_ssh_deny 101.91.208.117
 add badips_ssh_deny 192.241.226.8
 add badips_ssh_deny 206.81.11.216
 add badips_ssh_deny 106.12.186.121
+add badips_ssh_deny 93.66.183.17
 add badips_ssh_deny 96.89.56.249
 add badips_ssh_deny 164.132.107.245
 add badips_ssh_deny 106.13.178.233
@@ -6522,6 +6527,7 @@ add badips_ssh_deny 198.98.52.100
 add badips_ssh_deny 93.118.34.165
 add badips_ssh_deny 212.113.244.22
 add badips_ssh_deny 51.75.246.107
+add badips_ssh_deny 157.245.219.63
 add badips_ssh_deny 210.5.85.150
 add badips_ssh_deny 111.231.119.188
 add badips_ssh_deny 159.65.228.82
@@ -7104,6 +7110,7 @@ add badips_ssh_deny 219.240.99.110
 add badips_ssh_deny 51.141.122.112
 add badips_ssh_deny 106.13.90.78
 add badips_ssh_deny 101.71.129.93
+add badips_ssh_deny 116.1.201.12
 add badips_ssh_deny 206.189.147.137
 add badips_ssh_deny 89.208.230.154
 add badips_ssh_deny 77.237.69.165
@@ -9818,6 +9825,7 @@ add badips_ssh_deny 107.170.198.246
 add badips_ssh_deny 149.202.82.77
 add badips_ssh_deny 82.78.244.238
 add badips_ssh_deny 45.14.150.103
+add badips_ssh_deny 177.131.6.15
 add badips_ssh_deny 186.27.136.70
 add badips_ssh_deny 80.26.55.189
 add badips_ssh_deny 188.166.216.84
@@ -10980,6 +10988,7 @@ add badips_ssh_deny 103.130.141.72
 add badips_ssh_deny 106.12.57.149
 add badips_ssh_deny 118.113.145.225
 add badips_ssh_deny 49.233.147.147
+add badips_ssh_deny 59.63.163.49
 add badips_ssh_deny 80.11.67.223
 add badips_ssh_deny 13.75.46.224
 add badips_ssh_deny 75.31.93.181
@@ -12777,6 +12786,7 @@ add badips_ssh_deny 51.178.30.102
 add badips_ssh_deny 51.75.73.211
 add badips_ssh_deny 106.13.68.209
 add badips_ssh_deny 106.13.81.181
+add badips_ssh_deny 94.103.81.109
 add badips_ssh_deny 106.13.117.36
 add badips_ssh_deny 3.14.85.40
 add badips_ssh_deny 52.203.229.103
@@ -12971,6 +12981,7 @@ add badips_ssh_deny 206.189.128.215
 add badips_ssh_deny 51.91.125.136
 add badips_ssh_deny 175.24.109.20
 add badips_ssh_deny 176.31.191.61
+add badips_ssh_deny 40.73.98.246
 add badips_ssh_deny 118.25.182.230
 add badips_ssh_deny 71.58.90.64
 add badips_ssh_deny 199.247.13.223
