@@ -49,6 +49,7 @@ add badips_apache_deny 222.73.22.8
 add badips_apache_deny 119.152.62.101
 add badips_apache_deny 156.67.222.172
 add badips_apache_deny 193.118.53.194
+add badips_apache_deny 103.51.103.3
 add badips_apache_deny 5.101.0.209
 add badips_apache_deny 77.88.5.209
 add badips_apache_deny 37.120.218.113
