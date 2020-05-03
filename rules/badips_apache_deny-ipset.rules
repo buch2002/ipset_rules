@@ -1,13 +1,12 @@
 create badips_apache_deny hash:net family inet hashsize 1024 maxelem 65536
 add badips_apache_deny 217.178.89.86
-add badips_apache_deny 162.243.144.130
 add badips_apache_deny 216.218.206.69
 add badips_apache_deny 66.249.73.27
 add badips_apache_deny 35.198.175.247
 add badips_apache_deny 212.92.119.143
 add badips_apache_deny 113.199.255.18
-add badips_apache_deny 128.4.12.161
 add badips_apache_deny 107.180.120.47
+add badips_apache_deny 128.4.12.161
 add badips_apache_deny 92.111.39.52
 add badips_apache_deny 45.199.181.121
 add badips_apache_deny 13.84.34.230
@@ -19,8 +18,8 @@ add badips_apache_deny 178.128.194.144
 add badips_apache_deny 193.70.13.33
 add badips_apache_deny 133.167.79.116
 add badips_apache_deny 13.82.139.145
-add badips_apache_deny 165.22.251.46
 add badips_apache_deny 178.57.106.250
+add badips_apache_deny 165.22.251.46
 add badips_apache_deny 175.101.99.96
 add badips_apache_deny 185.202.1.204
 add badips_apache_deny 119.29.104.68
@@ -34,10 +33,10 @@ add badips_apache_deny 185.202.2.147
 add badips_apache_deny 66.249.75.128
 add badips_apache_deny 132.232.168.65
 add badips_apache_deny 83.97.20.150
-add badips_apache_deny 185.244.39.117
 add badips_apache_deny 86.98.223.187
-add badips_apache_deny 61.5.11.196
+add badips_apache_deny 185.244.39.117
 add badips_apache_deny 103.69.130.74
+add badips_apache_deny 61.5.11.196
 add badips_apache_deny 79.182.92.183
 add badips_apache_deny 66.249.70.81
 add badips_apache_deny 4.14.203.226
@@ -67,15 +66,15 @@ add badips_apache_deny 157.55.82.147
 add badips_apache_deny 13.68.186.14
 add badips_apache_deny 66.249.64.42
 add badips_apache_deny 37.28.156.195
-add badips_apache_deny 5.90.43.117
 add badips_apache_deny 37.187.53.157
+add badips_apache_deny 5.90.43.117
 add badips_apache_deny 202.181.243.186
 add badips_apache_deny 104.154.108.109
 add badips_apache_deny 13.84.33.90
 add badips_apache_deny 118.25.35.88
 add badips_apache_deny 142.93.35.169
-add badips_apache_deny 150.136.248.154
 add badips_apache_deny 176.31.88.156
+add badips_apache_deny 150.136.248.154
 add badips_apache_deny 77.88.5.200
 add badips_apache_deny 192.241.233.247
 add badips_apache_deny 185.199.87.234
@@ -88,7 +87,6 @@ add badips_apache_deny 218.253.240.84
 add badips_apache_deny 40.118.203.142
 add badips_apache_deny 109.175.102.99
 add badips_apache_deny 77.88.5.88
-add badips_apache_deny 74.80.28.217
 add badips_apache_deny 103.96.148.124
 add badips_apache_deny 111.67.202.80
 add badips_apache_deny 187.162.133.63
@@ -143,8 +141,8 @@ add badips_apache_deny 66.249.64.38
 add badips_apache_deny 66.249.75.131
 add badips_apache_deny 122.97.215.50
 add badips_apache_deny 188.74.64.78
-add badips_apache_deny 66.249.72.1
 add badips_apache_deny 212.129.52.65
+add badips_apache_deny 66.249.72.1
 add badips_apache_deny 181.220.170.6
 add badips_apache_deny 66.249.64.40
 add badips_apache_deny 82.65.88.231
@@ -190,5 +188,5 @@ add badips_apache_deny 104.168.44.142
 add badips_apache_deny 222.138.78.126
 add badips_apache_deny 119.28.135.173
 add badips_apache_deny 62.234.74.139
-add badips_apache_deny 66.249.65.71
 add badips_apache_deny 180.244.52.176
+add badips_apache_deny 66.249.65.71
