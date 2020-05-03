@@ -190,7 +190,6 @@ add badips_wordpress_deny 106.15.237.237
 add badips_wordpress_deny 178.128.103.151
 add badips_wordpress_deny 18.209.139.117
 add badips_wordpress_deny 104.248.29.213
-add badips_wordpress_deny 46.229.168.154
 add badips_wordpress_deny 193.112.128.197
 add badips_wordpress_deny 188.166.111.207
 add badips_wordpress_deny 124.17.12.138
@@ -268,7 +267,6 @@ add badips_wordpress_deny 37.158.57.175
 add badips_wordpress_deny 218.205.219.178
 add badips_wordpress_deny 161.35.4.172
 add badips_wordpress_deny 51.68.201.120
-add badips_wordpress_deny 139.59.4.200
 add badips_wordpress_deny 198.54.114.26
 add badips_wordpress_deny 35.180.93.103
 add badips_wordpress_deny 188.166.9.162
@@ -339,7 +337,6 @@ add badips_wordpress_deny 195.154.179.3
 add badips_wordpress_deny 160.153.245.123
 add badips_wordpress_deny 188.166.212.166
 add badips_wordpress_deny 186.64.117.95
-add badips_wordpress_deny 52.195.18.112
 add badips_wordpress_deny 157.245.42.253
 add badips_wordpress_deny 117.103.84.102
 add badips_wordpress_deny 70.113.11.186
@@ -440,7 +437,6 @@ add badips_wordpress_deny 178.128.114.38
 add badips_wordpress_deny 139.59.34.226
 add badips_wordpress_deny 88.245.198.134
 add badips_wordpress_deny 134.122.85.192
-add badips_wordpress_deny 147.135.170.161
 add badips_wordpress_deny 5.135.164.126
 add badips_wordpress_deny 13.250.23.115
 add badips_wordpress_deny 45.32.112.28
@@ -484,7 +480,6 @@ add badips_wordpress_deny 167.99.232.54
 add badips_wordpress_deny 113.162.165.145
 add badips_wordpress_deny 218.87.254.235
 add badips_wordpress_deny 121.190.16.180
-add badips_wordpress_deny 192.241.209.78
 add badips_wordpress_deny 59.51.147.252
 add badips_wordpress_deny 50.62.177.218
 add badips_wordpress_deny 139.99.121.6
