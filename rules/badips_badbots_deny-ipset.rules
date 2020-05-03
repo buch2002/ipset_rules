@@ -12436,6 +12436,7 @@ add badips_badbots_deny 206.189.190.187
 add badips_badbots_deny 167.71.48.57
 add badips_badbots_deny 97.92.23.184
 add badips_badbots_deny 190.165.166.138
+add badips_badbots_deny 34.219.35.183
 add badips_badbots_deny 188.213.165.189
 add badips_badbots_deny 40.73.7.223
 add badips_badbots_deny 182.61.176.45
