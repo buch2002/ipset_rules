@@ -349,6 +349,7 @@ add badips_cms_deny 178.128.215.218
 add badips_cms_deny 51.89.213.81
 add badips_cms_deny 18.182.101.69
 add badips_cms_deny 222.185.255.227
+add badips_cms_deny 176.240.61.29
 add badips_cms_deny 181.45.114.188
 add badips_cms_deny 35.243.130.225
 add badips_cms_deny 142.93.182.7
