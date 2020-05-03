@@ -15,6 +15,7 @@ add badips_apache-noscript_deny 187.162.133.63
 add badips_apache-noscript_deny 111.67.202.80
 add badips_apache-noscript_deny 86.98.223.187
 add badips_apache-noscript_deny 35.196.38.103
+add badips_apache-noscript_deny 41.57.124.26
 add badips_apache-noscript_deny 185.202.1.204
 add badips_apache-noscript_deny 183.136.213.100
 add badips_apache-noscript_deny 193.70.13.33
