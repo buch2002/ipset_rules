@@ -21,6 +21,7 @@ add badips_cms_deny 3.135.216.198
 add badips_cms_deny 107.180.95.70
 add badips_cms_deny 54.36.148.8
 add badips_cms_deny 206.189.35.138
+add badips_cms_deny 217.182.73.36
 add badips_cms_deny 107.180.122.41
 add badips_cms_deny 212.237.25.210
 add badips_cms_deny 202.185.28.31
@@ -45,6 +46,7 @@ add badips_cms_deny 185.130.44.108
 add badips_cms_deny 46.249.42.125
 add badips_cms_deny 166.62.122.244
 add badips_cms_deny 212.85.69.14
+add badips_cms_deny 40.89.134.161
 add badips_cms_deny 95.110.129.91
 add badips_cms_deny 3.21.19.190
 add badips_cms_deny 202.170.60.248
@@ -54,6 +56,7 @@ add badips_cms_deny 194.31.64.180
 add badips_cms_deny 184.179.216.134
 add badips_cms_deny 104.211.226.200
 add badips_cms_deny 185.208.175.214
+add badips_cms_deny 58.214.239.53
 add badips_cms_deny 178.128.48.87
 add badips_cms_deny 182.186.88.200
 add badips_cms_deny 54.36.148.126
@@ -109,6 +112,7 @@ add badips_cms_deny 162.144.46.137
 add badips_cms_deny 142.93.249.29
 add badips_cms_deny 23.97.58.94
 add badips_cms_deny 165.227.106.12
+add badips_cms_deny 45.32.202.0
 add badips_cms_deny 165.22.251.46
 add badips_cms_deny 35.200.191.251
 add badips_cms_deny 45.64.156.211
@@ -155,6 +159,7 @@ add badips_cms_deny 113.21.113.130
 add badips_cms_deny 34.247.86.28
 add badips_cms_deny 185.66.233.61
 add badips_cms_deny 54.36.148.233
+add badips_cms_deny 13.127.122.20
 add badips_cms_deny 124.17.12.138
 add badips_cms_deny 185.202.1.6
 add badips_cms_deny 128.199.158.182
@@ -198,10 +203,12 @@ add badips_cms_deny 64.111.126.43
 add badips_cms_deny 103.27.61.222
 add badips_cms_deny 213.172.153.12
 add badips_cms_deny 37.155.226.221
+add badips_cms_deny 159.203.108.187
 add badips_cms_deny 116.203.23.190
 add badips_cms_deny 213.32.91.71
 add badips_cms_deny 107.180.84.251
 add badips_cms_deny 178.62.233.203
+add badips_cms_deny 167.99.242.40
 add badips_cms_deny 162.243.8.129
 add badips_cms_deny 139.59.147.218
 add badips_cms_deny 178.62.42.64
@@ -213,6 +220,7 @@ add badips_cms_deny 198.54.119.81
 add badips_cms_deny 185.250.241.23
 add badips_cms_deny 35.198.48.78
 add badips_cms_deny 45.9.148.216
+add badips_cms_deny 185.4.132.226
 add badips_cms_deny 1.177.191.161
 add badips_cms_deny 139.59.43.128
 add badips_cms_deny 159.89.48.237
@@ -282,6 +290,7 @@ add badips_cms_deny 13.58.189.249
 add badips_cms_deny 139.59.10.17
 add badips_cms_deny 2.87.28.154
 add badips_cms_deny 54.36.148.190
+add badips_cms_deny 13.48.206.212
 add badips_cms_deny 139.99.121.6
 add badips_cms_deny 109.234.160.22
 add badips_cms_deny 54.36.148.230
@@ -531,6 +540,7 @@ add badips_cms_deny 77.68.30.189
 add badips_cms_deny 142.93.59.35
 add badips_cms_deny 181.44.62.198
 add badips_cms_deny 54.36.150.144
+add badips_cms_deny 23.253.218.48
 add badips_cms_deny 177.75.155.101
 add badips_cms_deny 54.36.148.45
 add badips_cms_deny 173.236.152.135
@@ -541,6 +551,7 @@ add badips_cms_deny 165.22.244.140
 add badips_cms_deny 37.238.200.33
 add badips_cms_deny 69.163.152.111
 add badips_cms_deny 208.97.177.178
+add badips_cms_deny 199.250.205.15
 add badips_cms_deny 64.227.13.147
 add badips_cms_deny 64.225.8.100
 add badips_cms_deny 54.246.205.49
@@ -616,6 +627,7 @@ add badips_cms_deny 54.36.148.37
 add badips_cms_deny 139.59.60.196
 add badips_cms_deny 54.36.148.187
 add badips_cms_deny 103.146.203.15
+add badips_cms_deny 13.235.162.44
 add badips_cms_deny 52.50.181.31
 add badips_cms_deny 54.36.148.132
 add badips_cms_deny 46.101.31.59
@@ -650,6 +662,7 @@ add badips_cms_deny 157.245.240.102
 add badips_cms_deny 101.53.139.81
 add badips_cms_deny 54.36.148.38
 add badips_cms_deny 159.89.162.186
+add badips_cms_deny 65.74.134.164
 add badips_cms_deny 51.89.200.108
 add badips_cms_deny 68.183.31.167
 add badips_cms_deny 103.147.10.222
@@ -760,6 +773,7 @@ add badips_cms_deny 35.240.153.187
 add badips_cms_deny 159.203.90.122
 add badips_cms_deny 217.111.155.90
 add badips_cms_deny 139.59.34.226
+add badips_cms_deny 78.46.81.14
 add badips_cms_deny 83.137.149.120
 add badips_cms_deny 206.189.83.155
 add badips_cms_deny 34.87.64.132
@@ -829,6 +843,7 @@ add badips_cms_deny 161.35.4.172
 add badips_cms_deny 68.65.122.66
 add badips_cms_deny 142.93.161.89
 add badips_cms_deny 45.124.86.130
+add badips_cms_deny 91.237.98.22
 add badips_cms_deny 37.158.57.175
 add badips_cms_deny 167.71.200.187
 add badips_cms_deny 150.95.110.45
@@ -857,6 +872,7 @@ add badips_cms_deny 80.99.225.53
 add badips_cms_deny 171.244.129.66
 add badips_cms_deny 54.36.148.182
 add badips_cms_deny 31.193.131.188
+add badips_cms_deny 141.255.165.78
 add badips_cms_deny 35.196.211.250
 add badips_cms_deny 51.15.159.90
 add badips_cms_deny 89.46.106.124
@@ -871,6 +887,7 @@ add badips_cms_deny 35.243.185.41
 add badips_cms_deny 198.46.81.61
 add badips_cms_deny 185.254.70.34
 add badips_cms_deny 192.169.143.117
+add badips_cms_deny 112.196.72.188
 add badips_cms_deny 104.248.50.28
 add badips_cms_deny 58.215.13.154
 add badips_cms_deny 60.2.101.221
@@ -906,6 +923,7 @@ add badips_cms_deny 136.243.36.68
 add badips_cms_deny 54.36.149.91
 add badips_cms_deny 182.61.29.94
 add badips_cms_deny 209.141.45.189
+add badips_cms_deny 91.226.82.202
 add badips_cms_deny 120.77.33.228
 add badips_cms_deny 222.217.221.178
 add badips_cms_deny 138.197.43.206
@@ -913,6 +931,8 @@ add badips_cms_deny 176.241.76.204
 add badips_cms_deny 159.89.183.168
 add badips_cms_deny 158.106.132.185
 add badips_cms_deny 34.64.218.102
+add badips_cms_deny 167.114.210.127
+add badips_cms_deny 128.199.108.26
 add badips_cms_deny 104.236.163.176
 add badips_cms_deny 159.89.176.59
 add badips_cms_deny 54.36.148.123
@@ -943,6 +963,7 @@ add badips_cms_deny 88.99.79.100
 add badips_cms_deny 218.75.148.181
 add badips_cms_deny 165.22.210.121
 add badips_cms_deny 54.36.149.61
+add badips_cms_deny 159.203.32.71
 add badips_cms_deny 54.36.148.57
 add badips_cms_deny 157.230.248.89
 add badips_cms_deny 34.87.127.98
