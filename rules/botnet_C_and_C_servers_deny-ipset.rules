@@ -380,6 +380,7 @@ add botnet_C_and_C_servers 200.123.150.89
 add botnet_C_and_C_servers 96.9.73.73
 add botnet_C_and_C_servers 190.214.13.2
 add botnet_C_and_C_servers 23.92.16.164
+add botnet_C_and_C_servers 45.161.242.102
 add botnet_C_and_C_servers 59.20.65.102
 add botnet_C_and_C_servers 120.150.246.241
 add botnet_C_and_C_servers 174.57.150.13
