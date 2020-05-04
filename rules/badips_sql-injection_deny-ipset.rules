@@ -7,6 +7,7 @@ add badips_sql-injection_deny 80.255.7.98
 add badips_sql-injection_deny 132.148.166.254
 add badips_sql-injection_deny 79.164.158.220
 add badips_sql-injection_deny 185.210.218.101
+add badips_sql-injection_deny 49.149.97.188
 add badips_sql-injection_deny 105.158.60.135
 add badips_sql-injection_deny 40.113.207.209
 add badips_sql-injection_deny 186.48.89.18
