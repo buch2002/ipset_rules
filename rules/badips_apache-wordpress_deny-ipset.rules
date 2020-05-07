@@ -1,16 +1,12 @@
 create badips_apache-wordpress_deny hash:net family inet hashsize 1024 maxelem 65536
-add badips_apache-wordpress_deny 78.189.170.40
 add badips_apache-wordpress_deny 95.216.225.96
-add badips_apache-wordpress_deny 103.89.168.196
 add badips_apache-wordpress_deny 218.58.105.206
 add badips_apache-wordpress_deny 187.72.160.39
 add badips_apache-wordpress_deny 109.166.164.218
-add badips_apache-wordpress_deny 182.190.4.84
-add badips_apache-wordpress_deny 104.248.147.78
 add badips_apache-wordpress_deny 188.213.49.210
 add badips_apache-wordpress_deny 176.9.112.115
-add badips_apache-wordpress_deny 78.175.63.237
 add badips_apache-wordpress_deny 195.122.229.18
+add badips_apache-wordpress_deny 192.99.15.15
 add badips_apache-wordpress_deny 188.240.208.26
 add badips_apache-wordpress_deny 140.143.230.148
 add badips_apache-wordpress_deny 68.183.82.249
@@ -21,15 +17,15 @@ add badips_apache-wordpress_deny 41.128.191.138
 add badips_apache-wordpress_deny 114.143.230.186
 add badips_apache-wordpress_deny 162.241.87.45
 add badips_apache-wordpress_deny 41.139.217.254
-add badips_apache-wordpress_deny 58.244.173.130
 add badips_apache-wordpress_deny 59.47.140.174
+add badips_apache-wordpress_deny 78.26.143.31
 add badips_apache-wordpress_deny 218.26.97.162
 add badips_apache-wordpress_deny 115.75.20.240
 add badips_apache-wordpress_deny 193.124.175.185
 add badips_apache-wordpress_deny 185.11.224.44
 add badips_apache-wordpress_deny 120.29.140.188
 add badips_apache-wordpress_deny 66.110.216.139
-add badips_apache-wordpress_deny 41.139.205.215
 add badips_apache-wordpress_deny 51.15.159.90
+add badips_apache-wordpress_deny 41.139.205.215
 add badips_apache-wordpress_deny 173.245.239.105
 add badips_apache-wordpress_deny 221.176.134.36
