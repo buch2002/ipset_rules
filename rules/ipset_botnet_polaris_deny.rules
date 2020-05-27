@@ -38,6 +38,7 @@ add botnet_polaris_deny 47.206.38.79
 add botnet_polaris_deny 70.81.4.114
 add botnet_polaris_deny 50.192.43.149
 add botnet_polaris_deny 103.4.60.235
+add botnet_polaris_deny 131.108.4.154
 add botnet_polaris_deny 201.236.140.146
 add botnet_polaris_deny 185.178.18.185
 add botnet_polaris_deny 186.24.46.58
