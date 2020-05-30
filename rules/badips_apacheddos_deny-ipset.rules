@@ -1,5 +1,2 @@
 create badips_apacheddos_deny hash:net family inet hashsize 1024 maxelem 65536
-add badips_apacheddos_deny 0.0.0.200
-add badips_apacheddos_deny 0.0.7.228
 add badips_apacheddos_deny 185.234.217.177
-add badips_apacheddos_deny 0.0.0.30
