@@ -1,7 +1,6 @@
 create badips_apache-wordpress_deny hash:net family inet hashsize 1024 maxelem 65536
+add badips_apache-wordpress_deny 80.92.87.58
 add badips_apache-wordpress_deny 88.218.17.117
-add badips_apache-wordpress_deny 157.230.153.203
 add badips_apache-wordpress_deny 78.26.142.107
-add badips_apache-wordpress_deny 167.71.132.227
 add badips_apache-wordpress_deny 178.62.33.222
-add badips_apache-wordpress_deny 52.231.69.101
+add badips_apache-wordpress_deny 37.187.72.146
