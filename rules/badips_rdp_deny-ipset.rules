@@ -1,6 +1,7 @@
 create badips_rdp_deny hash:net family inet hashsize 1024 maxelem 65536
 add badips_rdp_deny 213.32.95.139
 add badips_rdp_deny 185.242.161.122
+add badips_rdp_deny 103.125.190.46
 add badips_rdp_deny 62.173.145.51
 add badips_rdp_deny 122.129.126.226
 add badips_rdp_deny 158.69.123.152
@@ -18,7 +19,6 @@ add badips_rdp_deny 103.99.3.25
 add badips_rdp_deny 113.140.213.20
 add badips_rdp_deny 103.9.158.117
 add badips_rdp_deny 160.20.109.181
-add badips_rdp_deny 46.148.129.40
 add badips_rdp_deny 158.69.168.3
 add badips_rdp_deny 103.90.205.226
 add badips_rdp_deny 165.227.186.53
@@ -30,6 +30,7 @@ add badips_rdp_deny 123.163.186.130
 add badips_rdp_deny 194.26.25.114
 add badips_rdp_deny 213.238.179.38
 add badips_rdp_deny 113.125.182.120
+add badips_rdp_deny 103.99.2.128
 add badips_rdp_deny 103.79.143.162
 add badips_rdp_deny 88.218.17.241
 add badips_rdp_deny 89.40.73.134
@@ -52,10 +53,8 @@ add badips_rdp_deny 196.202.59.182
 add badips_rdp_deny 172.96.8.178
 add badips_rdp_deny 92.222.199.126
 add badips_rdp_deny 13.90.27.231
-add badips_rdp_deny 40.112.49.117
 add badips_rdp_deny 103.133.109.249
 add badips_rdp_deny 178.128.153.67
-add badips_rdp_deny 64.180.248.77
 add badips_rdp_deny 180.214.238.98
 add badips_rdp_deny 88.218.17.196
 add badips_rdp_deny 203.19.32.201
