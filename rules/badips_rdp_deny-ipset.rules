@@ -1,5 +1,4 @@
 create badips_rdp_deny hash:net family inet hashsize 1024 maxelem 65536
-add badips_rdp_deny 213.32.95.139
 add badips_rdp_deny 185.242.161.122
 add badips_rdp_deny 103.125.190.46
 add badips_rdp_deny 36.81.139.75
@@ -22,12 +21,14 @@ add badips_rdp_deny 103.139.44.130
 add badips_rdp_deny 194.26.25.114
 add badips_rdp_deny 213.238.179.38
 add badips_rdp_deny 27.71.224.34
+add badips_rdp_deny 124.165.205.126
 add badips_rdp_deny 113.125.182.120
 add badips_rdp_deny 103.99.2.128
 add badips_rdp_deny 150.129.250.141
 add badips_rdp_deny 91.211.6.234
 add badips_rdp_deny 103.79.143.162
 add badips_rdp_deny 203.150.78.246
+add badips_rdp_deny 35.173.34.212
 add badips_rdp_deny 88.218.17.241
 add badips_rdp_deny 51.195.146.162
 add badips_rdp_deny 103.141.136.52
