@@ -5,7 +5,6 @@ add MIRAI_Botnet_IP_Blocklist 51.255.38.226
 add MIRAI_Botnet_IP_Blocklist 85.209.0.55
 add MIRAI_Botnet_IP_Blocklist 106.13.186.24
 add MIRAI_Botnet_IP_Blocklist 204.107.208.0/24
-add MIRAI_Botnet_IP_Blocklist 181.99.223.250
 add MIRAI_Botnet_IP_Blocklist 46.55.34.223
 add MIRAI_Botnet_IP_Blocklist 74.82.47.60
 add MIRAI_Botnet_IP_Blocklist 96.67.117.145
@@ -418,7 +417,6 @@ add MIRAI_Botnet_IP_Blocklist 74.82.47.23
 add MIRAI_Botnet_IP_Blocklist 185.175.208.179
 add MIRAI_Botnet_IP_Blocklist 196.52.43.64
 add MIRAI_Botnet_IP_Blocklist 45.95.168.207
-add MIRAI_Botnet_IP_Blocklist 216.75.37.196
 add MIRAI_Botnet_IP_Blocklist 211.107.12.63
 add MIRAI_Botnet_IP_Blocklist 220.134.248.141
 add MIRAI_Botnet_IP_Blocklist 206.189.143.219
@@ -1239,7 +1237,6 @@ add MIRAI_Botnet_IP_Blocklist 143.255.45.48
 add MIRAI_Botnet_IP_Blocklist 94.70.246.253
 add MIRAI_Botnet_IP_Blocklist 195.29.92.22
 add MIRAI_Botnet_IP_Blocklist 45.117.132.0/22
-add MIRAI_Botnet_IP_Blocklist 51.38.134.203
 add MIRAI_Botnet_IP_Blocklist 162.243.144.116
 add MIRAI_Botnet_IP_Blocklist 162.243.144.248
 add MIRAI_Botnet_IP_Blocklist 167.114.203.73
@@ -2088,7 +2085,6 @@ add MIRAI_Botnet_IP_Blocklist 42.237.112.50
 add MIRAI_Botnet_IP_Blocklist 219.78.14.3
 add MIRAI_Botnet_IP_Blocklist 45.84.196.217
 add MIRAI_Botnet_IP_Blocklist 218.161.75.10
-add MIRAI_Botnet_IP_Blocklist 45.155.173.167
 add MIRAI_Botnet_IP_Blocklist 95.67.71.126
 add MIRAI_Botnet_IP_Blocklist 74.82.47.10
 add MIRAI_Botnet_IP_Blocklist 103.53.113.40
@@ -2117,7 +2113,6 @@ add MIRAI_Botnet_IP_Blocklist 190.210.47.73
 add MIRAI_Botnet_IP_Blocklist 202.78.195.118
 add MIRAI_Botnet_IP_Blocklist 45.220.64.0/18
 add MIRAI_Botnet_IP_Blocklist 61.216.67.25
-add MIRAI_Botnet_IP_Blocklist 186.146.110.108
 add MIRAI_Botnet_IP_Blocklist 80.184.84.135
 add MIRAI_Botnet_IP_Blocklist 109.107.128.0/19
 add MIRAI_Botnet_IP_Blocklist 193.218.118.130
@@ -2416,7 +2411,6 @@ add MIRAI_Botnet_IP_Blocklist 167.172.115.193
 add MIRAI_Botnet_IP_Blocklist 122.51.69.116
 add MIRAI_Botnet_IP_Blocklist 170.106.84.58
 add MIRAI_Botnet_IP_Blocklist 193.151.89.76
-add MIRAI_Botnet_IP_Blocklist 212.112.113.235
 add MIRAI_Botnet_IP_Blocklist 45.163.200.2
 add MIRAI_Botnet_IP_Blocklist 58.213.106.78
 add MIRAI_Botnet_IP_Blocklist 115.135.15.229
@@ -5120,7 +5114,6 @@ add MIRAI_Botnet_IP_Blocklist 185.220.101.209
 add MIRAI_Botnet_IP_Blocklist 194.169.88.39
 add MIRAI_Botnet_IP_Blocklist 76.86.17.1
 add MIRAI_Botnet_IP_Blocklist 185.17.132.158
-add MIRAI_Botnet_IP_Blocklist 154.120.227.206
 add MIRAI_Botnet_IP_Blocklist 194.5.250.184
 add MIRAI_Botnet_IP_Blocklist 86.110.14.190
 add MIRAI_Botnet_IP_Blocklist 185.176.27.46
@@ -5214,6 +5207,7 @@ add MIRAI_Botnet_IP_Blocklist 118.182.65.82
 add MIRAI_Botnet_IP_Blocklist 5.88.130.165
 add MIRAI_Botnet_IP_Blocklist 180.176.213.151
 add MIRAI_Botnet_IP_Blocklist 23.129.64.212/31
+add MIRAI_Botnet_IP_Blocklist 45.155.173.166/31
 add MIRAI_Botnet_IP_Blocklist 124.156.50.89
 add MIRAI_Botnet_IP_Blocklist 193.228.91.109
 add MIRAI_Botnet_IP_Blocklist 217.113.27.158
@@ -5447,7 +5441,6 @@ add MIRAI_Botnet_IP_Blocklist 85.109.189.82
 add MIRAI_Botnet_IP_Blocklist 89.219.10.229
 add MIRAI_Botnet_IP_Blocklist 162.243.142.88
 add MIRAI_Botnet_IP_Blocklist 69.94.155.176
-add MIRAI_Botnet_IP_Blocklist 113.52.135.33
 add MIRAI_Botnet_IP_Blocklist 89.36.149.12
 add MIRAI_Botnet_IP_Blocklist 168.151.6.0/24
 add MIRAI_Botnet_IP_Blocklist 34.227.77.100
@@ -6546,6 +6539,7 @@ add MIRAI_Botnet_IP_Blocklist 59.126.63.22
 add MIRAI_Botnet_IP_Blocklist 115.165.210.252
 add MIRAI_Botnet_IP_Blocklist 160.153.153.29
 add MIRAI_Botnet_IP_Blocklist 123.207.153.52
+add MIRAI_Botnet_IP_Blocklist 91.240.118.0/24
 add MIRAI_Botnet_IP_Blocklist 212.233.238.31
 add MIRAI_Botnet_IP_Blocklist 213.217.1.43
 add MIRAI_Botnet_IP_Blocklist 42.115.93.2
@@ -6573,7 +6567,6 @@ add MIRAI_Botnet_IP_Blocklist 114.161.127.168
 add MIRAI_Botnet_IP_Blocklist 189.141.182.195
 add MIRAI_Botnet_IP_Blocklist 35.186.238.101
 add MIRAI_Botnet_IP_Blocklist 114.32.91.181
-add MIRAI_Botnet_IP_Blocklist 143.95.101.72
 add MIRAI_Botnet_IP_Blocklist 163.177.40.85
 add MIRAI_Botnet_IP_Blocklist 178.238.21.110
 add MIRAI_Botnet_IP_Blocklist 218.28.5.14
@@ -10083,7 +10076,6 @@ add MIRAI_Botnet_IP_Blocklist 111.44.164.66
 add MIRAI_Botnet_IP_Blocklist 92.254.184.183
 add MIRAI_Botnet_IP_Blocklist 189.141.181.9
 add MIRAI_Botnet_IP_Blocklist 197.248.38.174
-add MIRAI_Botnet_IP_Blocklist 200.55.168.82
 add MIRAI_Botnet_IP_Blocklist 65.49.20.105
 add MIRAI_Botnet_IP_Blocklist 218.26.20.247
 add MIRAI_Botnet_IP_Blocklist 103.98.19.39
@@ -11092,7 +11084,6 @@ add MIRAI_Botnet_IP_Blocklist 79.175.33.174
 add MIRAI_Botnet_IP_Blocklist 111.11.181.53
 add MIRAI_Botnet_IP_Blocklist 164.132.200.121
 add MIRAI_Botnet_IP_Blocklist 208.91.197.26/31
-add MIRAI_Botnet_IP_Blocklist 190.117.206.153
 add MIRAI_Botnet_IP_Blocklist 135.180.89.25
 add MIRAI_Botnet_IP_Blocklist 103.71.25.0/24
 add MIRAI_Botnet_IP_Blocklist 129.211.49.17
@@ -11741,7 +11732,6 @@ add MIRAI_Botnet_IP_Blocklist 31.179.135.186
 add MIRAI_Botnet_IP_Blocklist 59.126.199.203
 add MIRAI_Botnet_IP_Blocklist 104.27.181.160
 add MIRAI_Botnet_IP_Blocklist 211.194.207.96
-add MIRAI_Botnet_IP_Blocklist 75.154.163.1
 add MIRAI_Botnet_IP_Blocklist 173.178.89.119
 add MIRAI_Botnet_IP_Blocklist 46.146.231.143
 add MIRAI_Botnet_IP_Blocklist 58.221.60.109
@@ -14635,7 +14625,6 @@ add MIRAI_Botnet_IP_Blocklist 51.178.16.227
 add MIRAI_Botnet_IP_Blocklist 170.106.64.219
 add MIRAI_Botnet_IP_Blocklist 5.150.236.124
 add MIRAI_Botnet_IP_Blocklist 23.129.64.204
-add MIRAI_Botnet_IP_Blocklist 175.114.178.83
 add MIRAI_Botnet_IP_Blocklist 84.46.146.161
 add MIRAI_Botnet_IP_Blocklist 220.132.6.101
 add MIRAI_Botnet_IP_Blocklist 64.225.47.129
@@ -14645,7 +14634,6 @@ add MIRAI_Botnet_IP_Blocklist 84.215.103.60
 add MIRAI_Botnet_IP_Blocklist 103.112.212.102
 add MIRAI_Botnet_IP_Blocklist 192.160.102.168
 add MIRAI_Botnet_IP_Blocklist 218.94.103.226
-add MIRAI_Botnet_IP_Blocklist 5.189.148.98
 add MIRAI_Botnet_IP_Blocklist 203.135.196.126
 add MIRAI_Botnet_IP_Blocklist 213.149.179.254
 add MIRAI_Botnet_IP_Blocklist 106.13.43.117
@@ -15638,7 +15626,6 @@ add MIRAI_Botnet_IP_Blocklist 58.216.8.78
 add MIRAI_Botnet_IP_Blocklist 62.205.19.6
 add MIRAI_Botnet_IP_Blocklist 192.241.169.184
 add MIRAI_Botnet_IP_Blocklist 88.247.107.86
-add MIRAI_Botnet_IP_Blocklist 186.92.11.143
 add MIRAI_Botnet_IP_Blocklist 210.2.86.72
 add MIRAI_Botnet_IP_Blocklist 213.230.67.33
 add MIRAI_Botnet_IP_Blocklist 23.97.209.27
@@ -16812,6 +16799,7 @@ add MIRAI_Botnet_IP_Blocklist 124.7.139.210
 add MIRAI_Botnet_IP_Blocklist 125.72.100.110
 add MIRAI_Botnet_IP_Blocklist 130.61.62.236
 add MIRAI_Botnet_IP_Blocklist 162.243.135.167
+add MIRAI_Botnet_IP_Blocklist 178.249.187.151
 add MIRAI_Botnet_IP_Blocklist 180.166.117.254
 add MIRAI_Botnet_IP_Blocklist 111.33.70.162
 add MIRAI_Botnet_IP_Blocklist 117.50.101.117
@@ -17060,7 +17048,6 @@ add MIRAI_Botnet_IP_Blocklist 162.62.16.131
 add MIRAI_Botnet_IP_Blocklist 59.44.177.250
 add MIRAI_Botnet_IP_Blocklist 111.132.5.132
 add MIRAI_Botnet_IP_Blocklist 162.243.140.180
-add MIRAI_Botnet_IP_Blocklist 190.96.118.15
 add MIRAI_Botnet_IP_Blocklist 89.248.172.24
 add MIRAI_Botnet_IP_Blocklist 158.69.244.40
 add MIRAI_Botnet_IP_Blocklist 113.213.221.179
@@ -17370,6 +17357,7 @@ add MIRAI_Botnet_IP_Blocklist 88.91.13.216
 add MIRAI_Botnet_IP_Blocklist 14.161.6.201
 add MIRAI_Botnet_IP_Blocklist 85.104.117.135
 add MIRAI_Botnet_IP_Blocklist 187.210.135.89
+add MIRAI_Botnet_IP_Blocklist 51.68.174.34
 add MIRAI_Botnet_IP_Blocklist 185.188.218.10
 add MIRAI_Botnet_IP_Blocklist 218.92.0.158
 add MIRAI_Botnet_IP_Blocklist 218.200.50.118
@@ -20263,7 +20251,6 @@ add MIRAI_Botnet_IP_Blocklist 52.234.178.149
 add MIRAI_Botnet_IP_Blocklist 114.40.172.244
 add MIRAI_Botnet_IP_Blocklist 218.253.242.224
 add MIRAI_Botnet_IP_Blocklist 46.148.21.32
-add MIRAI_Botnet_IP_Blocklist 83.169.33.157
 add MIRAI_Botnet_IP_Blocklist 106.37.178.165
 add MIRAI_Botnet_IP_Blocklist 177.230.81.0
 add MIRAI_Botnet_IP_Blocklist 46.165.254.193
@@ -22077,7 +22064,6 @@ add MIRAI_Botnet_IP_Blocklist 156.245.93.85
 add MIRAI_Botnet_IP_Blocklist 45.67.228.186
 add MIRAI_Botnet_IP_Blocklist 36.154.8.19
 add MIRAI_Botnet_IP_Blocklist 114.35.179.124
-add MIRAI_Botnet_IP_Blocklist 131.0.103.200
 add MIRAI_Botnet_IP_Blocklist 189.26.224.170
 add MIRAI_Botnet_IP_Blocklist 103.120.83.30
 add MIRAI_Botnet_IP_Blocklist 107.6.183.165
@@ -22564,7 +22550,6 @@ add MIRAI_Botnet_IP_Blocklist 83.12.171.68
 add MIRAI_Botnet_IP_Blocklist 190.117.207.222
 add MIRAI_Botnet_IP_Blocklist 218.201.102.250
 add MIRAI_Botnet_IP_Blocklist 87.251.74.62
-add MIRAI_Botnet_IP_Blocklist 178.249.187.150/31
 add MIRAI_Botnet_IP_Blocklist 121.15.165.185
 add MIRAI_Botnet_IP_Blocklist 62.201.219.116
 add MIRAI_Botnet_IP_Blocklist 99.232.72.161
@@ -24425,7 +24410,6 @@ add MIRAI_Botnet_IP_Blocklist 181.72.164.163
 add MIRAI_Botnet_IP_Blocklist 185.10.68.231
 add MIRAI_Botnet_IP_Blocklist 185.223.212.0/22
 add MIRAI_Botnet_IP_Blocklist 198.98.60.207
-add MIRAI_Botnet_IP_Blocklist 201.196.15.79
 add MIRAI_Botnet_IP_Blocklist 131.0.124.0/22
 add MIRAI_Botnet_IP_Blocklist 162.243.141.181
 add MIRAI_Botnet_IP_Blocklist 173.212.213.46
