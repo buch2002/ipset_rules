@@ -12,12 +12,12 @@ add badips_sql-injection_deny 178.63.150.130
 add badips_sql-injection_deny 31.177.95.103
 add badips_sql-injection_deny 178.63.211.126
 add badips_sql-injection_deny 64.62.153.249
+add badips_sql-injection_deny 196.206.107.111
 add badips_sql-injection_deny 18.213.221.64
-add badips_sql-injection_deny 3.12.73.52
 add badips_sql-injection_deny 200.165.224.205
+add badips_sql-injection_deny 89.19.30.91
 add badips_sql-injection_deny 188.120.225.71
 add badips_sql-injection_deny 92.53.96.221
-add badips_sql-injection_deny 107.150.31.134
+add badips_sql-injection_deny 121.98.150.20
 add badips_sql-injection_deny 107.167.92.194
 add badips_sql-injection_deny 94.198.51.96
-add badips_sql-injection_deny 91.144.143.149
