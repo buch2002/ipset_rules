@@ -1,11 +1,12 @@
 create badips_sql-injection_deny hash:net family inet hashsize 1024 maxelem 65536
 add badips_sql-injection_deny 95.57.87.71
+add badips_sql-injection_deny 115.239.64.184
 add badips_sql-injection_deny 108.62.49.149
-add badips_sql-injection_deny 31.31.198.107
 add badips_sql-injection_deny 20.188.57.41
+add badips_sql-injection_deny 67.219.146.70
 add badips_sql-injection_deny 52.250.65.231
-add badips_sql-injection_deny 23.98.135.153
+add badips_sql-injection_deny 88.247.49.109
 add badips_sql-injection_deny 94.130.162.223
 add badips_sql-injection_deny 89.212.46.78
-add badips_sql-injection_deny 52.188.62.36
+add badips_sql-injection_deny 201.148.255.108
 add badips_sql-injection_deny 5.83.162.175
