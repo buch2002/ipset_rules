@@ -74,6 +74,7 @@ add botnet_C_and_C_servers 140.207.113.106
 add botnet_C_and_C_servers 134.119.191.38
 add botnet_C_and_C_servers 173.91.22.41
 add botnet_C_and_C_servers 170.130.31.177
+add botnet_C_and_C_servers 189.218.165.63
 add botnet_C_and_C_servers 185.14.31.52
 add botnet_C_and_C_servers 14.161.6.60
 add botnet_C_and_C_servers 45.123.3.54
@@ -89,7 +90,6 @@ add botnet_C_and_C_servers 103.39.131.88
 add botnet_C_and_C_servers 63.142.253.122
 add botnet_C_and_C_servers 186.146.110.108
 add botnet_C_and_C_servers 196.179.249.218
-add botnet_C_and_C_servers 170.81.48.2
 add botnet_C_and_C_servers 37.70.131.107
 add botnet_C_and_C_servers 107.172.141.128
 add botnet_C_and_C_servers 84.21.179.51
@@ -104,8 +104,8 @@ add botnet_C_and_C_servers 187.242.204.142
 add botnet_C_and_C_servers 42.190.4.92
 add botnet_C_and_C_servers 182.176.132.213
 add botnet_C_and_C_servers 45.155.173.224
-add botnet_C_and_C_servers 179.184.65.222
 add botnet_C_and_C_servers 211.229.116.97
+add botnet_C_and_C_servers 149.62.173.247
 add botnet_C_and_C_servers 45.155.173.166
 add botnet_C_and_C_servers 77.74.78.80
 add botnet_C_and_C_servers 190.38.14.52
@@ -122,6 +122,7 @@ add botnet_C_and_C_servers 5.77.13.70
 add botnet_C_and_C_servers 181.31.213.158
 add botnet_C_and_C_servers 77.237.248.136
 add botnet_C_and_C_servers 190.114.244.182
+add botnet_C_and_C_servers 41.169.20.147
 add botnet_C_and_C_servers 186.159.1.217
 add botnet_C_and_C_servers 46.101.212.195
 add botnet_C_and_C_servers 183.82.110.170
@@ -179,6 +180,7 @@ add botnet_C_and_C_servers 200.71.148.138
 add botnet_C_and_C_servers 182.176.106.43
 add botnet_C_and_C_servers 186.10.16.244
 add botnet_C_and_C_servers 134.196.53.52
+add botnet_C_and_C_servers 114.109.179.60
 add botnet_C_and_C_servers 120.151.135.224
 add botnet_C_and_C_servers 113.161.148.81
 add botnet_C_and_C_servers 143.95.101.72
@@ -215,7 +217,6 @@ add botnet_C_and_C_servers 68.44.137.144
 add botnet_C_and_C_servers 104.131.58.132
 add botnet_C_and_C_servers 200.113.106.18
 add botnet_C_and_C_servers 190.163.1.31
-add botnet_C_and_C_servers 45.161.242.102
 add botnet_C_and_C_servers 190.19.42.131
 add botnet_C_and_C_servers 91.121.116.137
 add botnet_C_and_C_servers 190.196.143.58
@@ -245,7 +246,6 @@ add botnet_C_and_C_servers 200.127.51.94
 add botnet_C_and_C_servers 37.59.1.74
 add botnet_C_and_C_servers 185.99.2.68
 add botnet_C_and_C_servers 173.91.11.142
-add botnet_C_and_C_servers 190.161.45.112
 add botnet_C_and_C_servers 93.147.157.195
 add botnet_C_and_C_servers 201.173.217.124
 add botnet_C_and_C_servers 181.60.247.8
@@ -352,7 +352,6 @@ add botnet_C_and_C_servers 177.230.108.144
 add botnet_C_and_C_servers 187.193.89.61
 add botnet_C_and_C_servers 121.100.19.18
 add botnet_C_and_C_servers 181.112.157.42
-add botnet_C_and_C_servers 115.75.6.2
 add botnet_C_and_C_servers 194.5.250.184
 add botnet_C_and_C_servers 185.99.2.152
 add botnet_C_and_C_servers 94.250.254.155
@@ -368,7 +367,6 @@ add botnet_C_and_C_servers 101.187.97.173
 add botnet_C_and_C_servers 193.34.144.138
 add botnet_C_and_C_servers 195.133.197.46
 add botnet_C_and_C_servers 2.50.4.159
-add botnet_C_and_C_servers 110.143.8.89
 add botnet_C_and_C_servers 198.57.217.170
 add botnet_C_and_C_servers 47.150.248.161
 add botnet_C_and_C_servers 85.54.169.141
@@ -391,23 +389,18 @@ add botnet_C_and_C_servers 79.137.101.4
 add botnet_C_and_C_servers 41.203.62.170
 add botnet_C_and_C_servers 46.163.144.228
 add botnet_C_and_C_servers 173.247.19.238
-add botnet_C_and_C_servers 181.39.96.86
-add botnet_C_and_C_servers 181.30.69.50
 add botnet_C_and_C_servers 50.116.86.205
 add botnet_C_and_C_servers 192.241.220.155
 add botnet_C_and_C_servers 110.145.101.66
 add botnet_C_and_C_servers 165.227.156.155
 add botnet_C_and_C_servers 201.213.32.59
 add botnet_C_and_C_servers 113.160.180.109
-add botnet_C_and_C_servers 180.92.239.110
 add botnet_C_and_C_servers 221.133.46.86
 add botnet_C_and_C_servers 85.104.59.244
 add botnet_C_and_C_servers 103.111.83.246
 add botnet_C_and_C_servers 124.150.175.133
 add botnet_C_and_C_servers 190.146.131.105
-add botnet_C_and_C_servers 187.51.47.26
 add botnet_C_and_C_servers 190.171.230.41
-add botnet_C_and_C_servers 190.128.90.22
 add botnet_C_and_C_servers 185.244.39.190
 add botnet_C_and_C_servers 119.15.153.237
 add botnet_C_and_C_servers 186.68.141.218
@@ -420,7 +413,6 @@ add botnet_C_and_C_servers 45.56.79.249
 add botnet_C_and_C_servers 73.11.153.178
 add botnet_C_and_C_servers 78.188.7.213
 add botnet_C_and_C_servers 96.20.84.254
-add botnet_C_and_C_servers 177.66.190.130
 add botnet_C_and_C_servers 176.31.200.130
 add botnet_C_and_C_servers 202.62.39.111
 add botnet_C_and_C_servers 96.9.77.142
@@ -511,7 +503,6 @@ add botnet_C_and_C_servers 5.67.96.120
 add botnet_C_and_C_servers 188.138.91.26
 add botnet_C_and_C_servers 181.54.245.85
 add botnet_C_and_C_servers 41.60.200.34
-add botnet_C_and_C_servers 200.21.51.30
 add botnet_C_and_C_servers 81.169.202.3
 add botnet_C_and_C_servers 2.47.112.152
 add botnet_C_and_C_servers 187.177.155.123
@@ -556,7 +547,6 @@ add botnet_C_and_C_servers 85.94.81.18
 add botnet_C_and_C_servers 45.148.120.145
 add botnet_C_and_C_servers 200.90.86.170
 add botnet_C_and_C_servers 95.181.198.137
-add botnet_C_and_C_servers 201.213.100.141
 add botnet_C_and_C_servers 181.10.204.106
 add botnet_C_and_C_servers 217.13.106.160
 add botnet_C_and_C_servers 189.189.56.216
@@ -596,7 +586,6 @@ add botnet_C_and_C_servers 14.190.157.56
 add botnet_C_and_C_servers 201.106.32.171
 add botnet_C_and_C_servers 36.89.182.225
 add botnet_C_and_C_servers 190.144.18.198
-add botnet_C_and_C_servers 190.53.135.159
 add botnet_C_and_C_servers 130.204.245.137
 add botnet_C_and_C_servers 193.9.60.148
 add botnet_C_and_C_servers 190.97.30.167
@@ -640,6 +629,7 @@ add botnet_C_and_C_servers 190.4.50.26
 add botnet_C_and_C_servers 24.45.195.162
 add botnet_C_and_C_servers 2.50.52.255
 add botnet_C_and_C_servers 82.226.163.9
+add botnet_C_and_C_servers 217.13.106.14
 add botnet_C_and_C_servers 170.84.133.72
 add botnet_C_and_C_servers 186.177.174.163
 add botnet_C_and_C_servers 181.39.134.122
