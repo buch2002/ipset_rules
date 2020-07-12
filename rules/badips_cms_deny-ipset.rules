@@ -1,4 +1,1 @@
 create badips_cms_deny hash:net family inet hashsize 1024 maxelem 65536
-add badips_cms_deny 0.0.0.12
-add badips_cms_deny 0.0.1.246
-add badips_cms_deny 0.0.7.228
