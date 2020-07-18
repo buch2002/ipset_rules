@@ -1,1 +1,9 @@
 create badips_apache-404_deny hash:net family inet hashsize 1024 maxelem 65536
+add badips_apache-404_deny 23.129.64.181
+add badips_apache-404_deny 35.193.230.57
+add badips_apache-404_deny 89.14.125.193
+add badips_apache-404_deny 185.100.87.245
+add badips_apache-404_deny 151.80.16.162
+add badips_apache-404_deny 185.220.101.23
+add badips_apache-404_deny 209.151.158.54
+add badips_apache-404_deny 45.128.133.242
