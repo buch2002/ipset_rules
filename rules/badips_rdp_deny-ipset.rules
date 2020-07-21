@@ -14,7 +14,6 @@ add badips_rdp_deny 79.135.81.88
 add badips_rdp_deny 8.210.90.150
 add badips_rdp_deny 174.135.173.58
 add badips_rdp_deny 45.136.109.158
-add badips_rdp_deny 198.148.102.201
 add badips_rdp_deny 89.248.162.247
 add badips_rdp_deny 13.57.40.60
 add badips_rdp_deny 103.114.107.129
